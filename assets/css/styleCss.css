@@ -1,0 +1,26 @@
+body{
+    background-color: #D0FA58;
+}
+
+h2{
+    font-weight: bold;
+    color:#070B19;
+}
+
+
+
+tr, td, th{
+    text-align: center;
+    background-color: white;
+}
+
+td{
+    color: #00BFFF;
+}
+
+tr{
+    
+    font-weight: bold;
+    font-size:17px;
+    color: #FF0000;
+}
